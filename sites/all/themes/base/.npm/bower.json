@@ -1,0 +1,18 @@
+{
+  "name": "custom-gulp-starter",
+  "version": "0.0.1",
+  "authors": [
+    "deanhamilton11 <deanhamilton11@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "normalize-scss": "~3.0.3"
+  }
+}
