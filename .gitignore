@@ -19,7 +19,7 @@ sites/all/README.txt
 sites/all/modules/README.txt
 sites/all/themes/README.txt
 sites/all/themes/*/.npm/node_modules
-sites/all/themes/*/src/vendor
+sites/all/themes/*/src/assets/vendor
 sites/all/themes/*/public
 
 sites/all/themes/*/assets/vendor
